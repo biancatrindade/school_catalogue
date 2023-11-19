@@ -24,6 +24,6 @@ I created a digital school catalog that holds quick reference material for each 
 - Properties: `sportsTeams` (array of strings)
 
 
-You can check the result in [`school_catalogue.js`](https://github.com/biancatrindade/build-a-library/blob/main/build_a_library.js).
+You can check the result in [`school_catalogue.js`](https://github.com/biancatrindade/school_catalogue/blob/main/school_catalogue.js).
 
 **See you there!**
